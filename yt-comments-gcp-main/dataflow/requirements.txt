@@ -1,4 +1,0 @@
-apache-beam[gcp]
-google-cloud-pubsub
-google-cloud-bigquery
-PyYAML
